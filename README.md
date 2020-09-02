@@ -2,5 +2,5 @@
  Express,
  React and Node.JS, I have used Mongoose schema-based solution to model apllication data.
 
- I am hosting our database in the cloud using MongoDB Atlas.
+ I am hosting database in the cloud using MongoDB Atlas.
  
